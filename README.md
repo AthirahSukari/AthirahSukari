@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AthirahSukari
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning PowerBi and SQL
+- 🌱 I’m currently learning PowerBI,SQL, Python and Tableu
 - 💞️ I’m looking to collaborate on a Data Analytics project preferably in Sustainable Manufacturing, Digital Supply Chain and Oil and gas industry
 - 📫 Please hit me up on LinkedIn www.linkedin.com/in/sahratun-athirah
 - 💞️ Pleased to meet you!!!
